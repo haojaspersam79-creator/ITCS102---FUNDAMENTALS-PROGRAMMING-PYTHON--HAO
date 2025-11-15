@@ -47,7 +47,7 @@ Repository of Computer Program developed in Python for our Subject ITCS102 - Fir
 
 [Activity 23](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/eeea8a4c45083e570470d2d039fcf7a4ebd6f915/Activity23.py) ---> List and its Function. 
 
-[Activity 24](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/eeea8a4c45083e570470d2d039fcf7a4ebd6f915/Activity24.py) ---> The Used of "def" Summartion and Greetings. 
+[Activity 24](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/eeea8a4c45083e570470d2d039fcf7a4ebd6f915/Activity24.py) ---> The Used of "def" Summation and Greetings. 
 
 [Activity 24_1](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/eeea8a4c45083e570470d2d039fcf7a4ebd6f915/Activity24_1.py) ---> From Activity24 import greet, summation. 
 
@@ -59,34 +59,33 @@ Repository of Computer Program developed in Python for our Subject ITCS102 - Fir
 
 [Activity27](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/eeea8a4c45083e570470d2d039fcf7a4ebd6f915/Activity27.py) ---> Adding Data to dictionary. Using "def" "while" "if" "else" "elif"
 
-[CodeChallenge1]() --->
+[CodeChallenge1](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/a05902cdf403a4b688c41393e170101cc4f11b1d/CodeChallenge01.py) ---> First Code Challenge. Making a Diamong Using "*" and by using \n and \t.
 
-[CodeChallenge1]() --->
+[CodeChallenge2](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/a05902cdf403a4b688c41393e170101cc4f11b1d/CodeChallenge02.py) ---> Interger Used. Enter the amount to Deposit. 
 
-[CodeChallenge1]() --->
+[CodeChallenge3](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/a05902cdf403a4b688c41393e170101cc4f11b1d/CodeChallenge03.py) ---> User, Pass and Login. 
 
-[CodeChallenge1]() --->
+[CodeChallenge4](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/a05902cdf403a4b688c41393e170101cc4f11b1d/CodeChallenge04.py) ---> Input a number. Will determine if it is Odd or Sum number.
 
-[CodeChallenge1]() --->
+[CodeChallenge5](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/a05902cdf403a4b688c41393e170101cc4f11b1d/CodeChallenge05.py) ---> Manga Introduction, Main menu and Options for Manga.
 
-[CodeChallenge1]() --->
+[CodeChallenge6](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/a05902cdf403a4b688c41393e170101cc4f11b1d/CodeChallenge06.py) ---> Factorial Program, Descending Numbers. 
 
-[CodeChallenge1]() --->
+[CodeChallenge7](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/a05902cdf403a4b688c41393e170101cc4f11b1d/CodeChallenge07.py) ---> Odd Number Summation, Loop 10 Times.
 
-[CodeChallenge1]() --->
+[CodeChallenge8](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/a05902cdf403a4b688c41393e170101cc4f11b1d/CodeChallenge08.py) ---> Multiplication Table Form, Asking the user to input a Number.
 
-[CodeChallenge1]() --->
+[CodeChallenge9](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/a05902cdf403a4b688c41393e170101cc4f11b1d/CodeChallenge09.py) ---> Countdown Timer Simulator.
 
-[CodeChallenge1]() --->
+[CodeChallenge10](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/a05902cdf403a4b688c41393e170101cc4f11b1d/CodeChallenge10.py) ---> For Loop.
 
-[CodeChallenge1]() --->
+[CodeChallenge11](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/a05902cdf403a4b688c41393e170101cc4f11b1d/CodeChallenge11.py) ---> Making a Diamond using Loops. 
 
-[CodeChallenge1]() --->
+[CodeChallenge12](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/a05902cdf403a4b688c41393e170101cc4f11b1d/CodeChallenge12.py) ---> For Loop.
 
-[CodeChallenge1]() --->
+[CodeChallenge13](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/a05902cdf403a4b688c41393e170101cc4f11b1d/CodeChallenge13.py) ---> Making a Christmas Tree using "*"
 
-[CodeChallenge1]() --->
+[CodeChallenge14](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/a05902cdf403a4b688c41393e170101cc4f11b1d/CodeChallenge14.py) ---> All odd numbers will calculated and skip if even numbers.
 
-[CodeChallenge1]() --->
+[CodeChallenge15](https://github.com/haojaspersam79-creator/ITCS102---FUNDAMENTALS-PROGRAMMING-PYTHON--HAO/blob/a05902cdf403a4b688c41393e170101cc4f11b1d/CodeChallenge15.py) ---> Anime list, Using list and while loop.
 
-[CodeChallenge1]() --->
