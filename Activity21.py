@@ -14,5 +14,3 @@ while me == True:
     else:
         print("Error input")
         continue
-Sent
-Write to Only For Myself
